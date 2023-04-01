@@ -1,2 +1,2 @@
 # datasciencecoursera
-Config files for my GitHub profile.
+Material for data science course 
